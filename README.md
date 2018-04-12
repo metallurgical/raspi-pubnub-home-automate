@@ -15,7 +15,7 @@ Control raspi GPIO pin from webpage(home-automation-php).
 ## Usage
  - PIN 16 = Lamp
  - PIN 04 = Fan
- - Channels = "<pub-nub-channel>"
+ - Channels = "pub-nub-channel"
  
  
 ## Run script
