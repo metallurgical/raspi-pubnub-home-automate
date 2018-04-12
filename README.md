@@ -20,4 +20,6 @@ Control raspi GPIO pin from webpage(home-automation-php).
  
 ## Run script
 
-`<sudo> python main.py` // ctrl + C to terminate script
+```
+<sudo> python main.py // ctrl + C to terminate script
+```
