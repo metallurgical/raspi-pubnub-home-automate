@@ -4,6 +4,7 @@ Control raspi GPIO pin from webpage(home-automation-php).
 
 ## Requirement
 
+ - Raspberry PI 3(tested on 3, should be working also on 2)
  - Pyhton 2.7
  - Pubnub >= 3 < 4 python SDK
  - Raspian OS
