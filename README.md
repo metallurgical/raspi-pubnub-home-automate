@@ -94,6 +94,12 @@ systemctl enable supervisord.service
 systemctl start supervisord.service
 ```
 
+Restart raspberry PI either from terminal(lite version) or GUI(desktop version):
+
+```
+shutdown -r now
+```
+
 
 
 
